@@ -7,4 +7,4 @@ This is useful when you need to retrieve metrics to graph or understand how they
 
 For usage instructions see the example shell scripts or execute java -jar jmxcl.jar after building (mvn package)
 
-[![Build Status](https://travis-ci.org/[jph98]/[jmxcl].png)](https://travis-ci.org/[jph98]/[jmxcl])
+[![Build Status](https://travis-ci.org/jph98/jmxcl.png)](https://travis-ci.org/jph98/jmxcl)
