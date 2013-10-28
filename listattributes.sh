@@ -1,0 +1,1 @@
+java -jar target/jmxclient.jar attr hostname:port jmxusername jmxpassword Catalina:type=NamingResources
